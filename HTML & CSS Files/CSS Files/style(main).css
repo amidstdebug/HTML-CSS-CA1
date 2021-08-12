@@ -1,0 +1,95 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+
+/* start of nav bar*/
+.nav {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    background-color:#80475e;
+    margin:0;
+    padding: 10px 0;
+    width:100%;
+}
+.nav li:first-of-type{
+    background: transparent;
+    width:150px;
+}
+.nav li {
+    margin:0 30px;
+    background:#FFF4E9;
+    border-radius: 20px;
+}
+.fatface img {
+    width: 100%;
+    top: 0;
+    left: 0;
+   }
+.fatface{
+    margin-right: 50px;
+}
+
+
+.nav a{
+    text-decoration: none;
+    color:#011936;
+    display:block;
+    padding:20px 20px;
+}
+.nav > div > a {
+    width: 50px;
+    height: 50px;
+    float:left;
+    margin-right:30%;
+    color:#011936;
+}
+/*end of nav bar*/
+
+
+body{
+    background-image: url("./Pictures/cloud2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width:100%;
+    max-width: 100%;
+    overflow-x: hidden;
+    text-align: center;
+}
+
+
+/*start of contact page*/
+footer{
+    position:relative;
+    text-align: center;
+    bottom:0;
+    left:0;
+    width:100%;
+    background-color:#80475e;
+    margin:0;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+footer div{
+    position:relative;
+    text-align: center;
+    bottom:0;
+    left:0;
+    width:100%;
+    background-color:#80475e;
+    display:flex;
+    justify-content:center;
+    margin:0;
+
+}
+footer a {
+    color:white;
+    margin: 20px;
+    width: 30px;
+    height: 30px;
+
+}
+/*end of contact page*/

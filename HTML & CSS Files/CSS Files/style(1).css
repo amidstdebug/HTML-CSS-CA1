@@ -1,0 +1,211 @@
+/*Start of Intro*/
+.border{
+    background:#383434;
+    width:100%;
+    padding-top:30px;
+    padding-bottom:30px;
+    display: flex;
+    justify-content: center;
+}
+.image-justin img{
+    height:100%;
+    width:100%
+
+}
+.image-justin{
+    justify-items: right;
+    width:30%;
+}
+.paragraph1{
+    color:white;
+    width:30%;
+    word-wrap: break-word;
+    text-align: justify;
+    background-image: url("./Pictures/cloud2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    justify-items: left;
+    padding-left:50px;
+    padding-right:50px;
+
+}
+.paragraph1 h1{
+    padding-top:100px;
+    text-align: center;
+    font-size: 50px
+}
+.paragraph1 h2{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom:80px;
+}
+.paragraph1 h3{
+    text-align: justify;
+    padding-top: 10px;
+    padding-bottom:20px;
+}
+/*End of Intro*/
+
+
+/*Start of About Me*/
+.about{
+    color:white;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom:70px;
+    background-color:#34344A;
+}
+.about p{
+    padding-top:30px;
+    text-align: justify;
+    padding-left:300px;
+    padding-right:300px;
+    word-wrap: break-word;
+    text-justify: inter-word;
+    font-size:25px;
+}
+.personality{
+    background:#7d98a1;
+    color:white;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 40px;
+    padding-bottom:70px;
+}
+.personality h1{
+    padding-bottom: 30px;
+}
+.personality p{
+    padding-top:30px;
+    text-align: justify;
+    padding-left:300px;
+    padding-right:300px;
+    word-wrap: break-word;
+    text-justify: inter-word;
+    font-size:25px;
+}
+/*End of About Me*/
+
+
+/*Start of Interests Section 1*/
+    .header-main{
+        background:#34344A;
+    }
+    .header-main{
+    color:white;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 40px;
+    padding-bottom:40px;
+    background-color:#34344A;
+    }
+    .header-main p{
+        text-align: center;
+        color:white;
+        font-size: 30px;
+        margin-top: 10px;
+        margin-right:400px;
+        margin-left: 400px;
+        padding-bottom:40px;
+    }
+    .image-section-1{
+        background:#34344A;
+        width:100%;
+        padding-top:30px;
+        padding-bottom:30px;
+        display: flex;
+        justify-content: center;
+    }
+    .chess img{
+        height:100%;
+        width:100%;
+    }
+    .chess{
+        justify-items: right;
+        width:40%;
+    }
+    .paragraph{
+        color:white;
+        width:30%;
+        word-wrap: break-word;
+        text-align: justify;
+        background-image: url("./Pictures/cloud2.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:100%;
+        justify-items: left;
+        padding-left:50px;
+        padding-right:50px;
+    }
+    .paragraph h1{
+        padding-top:50px;
+        text-align: center;
+        font-size: 50px;
+        padding-bottom:40px;
+    }
+    .first-para-sec-1 {
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+        padding-bottom: 70px;
+    }
+    .paragraph h4{
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+    }
+/*End of Interests Section 1*/
+
+
+/*Start of Interests Section 2*/
+ .image-section-2{
+        background:#34344A;
+        width:100%;
+        padding-top:30px;
+        padding-bottom:60px;
+        display: flex;
+        justify-content: center;
+    }
+    .photography img{
+        height:100%;
+        width:100%;
+    }
+    .photography{
+        justify-items: right;
+        width:40%;
+    }
+    .paragraph{
+        color:white;
+        width:30%;
+        word-wrap: break-word;
+        text-align: justify;
+        background-image: url("./Pictures/cloud2.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:100%;
+        justify-items: left;
+        padding-left:50px;
+        padding-right:50px;
+    }
+    .paragraph h1{
+        padding-top:20px;
+        text-align: center;
+        font-size: 50px;
+        padding-bottom:10px;
+    }
+    .first-para-sec-2 {
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+        padding-bottom: 20px;
+    }
+    .paragraph h4{
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+    }
+    .second-para {
+        padding-bottom: 30px;
+    }
+/*End of Interests Section 2*/

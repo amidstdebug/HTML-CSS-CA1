@@ -1,0 +1,215 @@
+/*start of header*/
+    .header-main{
+        background:#383434;
+    }
+    .header-main h1{
+        text-align: center;
+        color:white;
+        font-size: 50px;
+        padding-top: 30px;
+        margin-right:100px;
+        margin-left: 100px;
+        background:#383434;
+        padding-bottom:20px;
+    }
+    .header-main p{
+        text-align: center;
+        color:white;
+        font-size: 30px;
+        margin-top: 10px;
+        margin-right:400px;
+        margin-left: 400px;
+        padding-bottom:40px;
+    }
+/*end of header*/
+
+
+/* first section*/
+    .image-section{
+        background:#34344A;
+        width:100%;
+        padding-top:30px;
+        padding-bottom:30px;
+        display: flex;
+        justify-content: center;
+    }
+    .MTM img{
+        height:100%;
+        width:100%;
+    }
+    .MTM{
+        justify-items: right;
+        width:40%;
+    }
+    .paragraph{
+        color:white;
+        width:30%;
+        word-wrap: break-word;
+        text-align: justify;
+        background-image: url("./Pictures/cloud3.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:100%;
+        justify-items: left;
+        padding-left:50px;
+        padding-right:50px;
+    }
+    .paragraph h1{
+        padding-top:50px;
+        text-align: center;
+        font-size: 50px;
+        padding-bottom:40px;
+    }
+    .first-para-sec-1 {
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+        padding-bottom: 70px;
+    }
+    .paragraph h4{
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+    }
+/*end of first section*/
+
+
+/*second section*/
+    .image-section-2{
+        background:#383434;
+        width:100%;
+        padding-top:30px;
+        padding-bottom:30px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .class-pic img{
+        height:100%;
+        width:100%;
+    }
+    .class-pic{
+        justify-items: left;
+        width:40%;
+    }
+    .paragraph-section-2{
+        color:white;
+        width:30%;
+        word-wrap: break-word;
+        text-align: justify;
+        background-image: url("./Pictures/cloud3.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:100%;
+        justify-items: right;
+        padding-left:50px;
+        padding-right:50px;
+    }
+    .paragraph-section-2 h1{
+        padding-top:50px;
+        text-align: center;
+        font-size: 50px;
+        padding-bottom:40px;
+    }
+    .paragraph-section-2 h4{
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+    }
+    .first-para-sec-2 {
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+        padding-bottom: 70px;
+    }
+/*end of second section*/
+
+
+/*start of third section*/
+    .image-section-3{
+        background:#34344A;
+        width:100%;
+        padding-top:30px;
+        padding-bottom:50px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .olevel-pic img{
+        height:100%;
+        width:100%;
+    }
+    .olevel-pic{
+        justify-items: left;
+        width:40%;
+    }
+    .paragraph-section-3{
+        color:white;
+        width:30%;
+        word-wrap: break-word;
+        text-align: justify;
+        background-image: url("./Pictures/cloud3.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:100%;
+        justify-items: right;
+        padding-left:50px;
+        padding-right:50px;
+    }
+    .paragraph-section-3 h1{
+        padding-top:50px;
+        text-align: center;
+        font-size: 50px;
+        padding-bottom:40px;
+    }
+    .paragraph-section-3 h4{
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+    }
+    .first-para-sec-3 {
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+        padding-bottom: 70px;
+    }
+/*end of third section*/
+
+
+/*Start of fourth section*/
+.personal-achievements {
+    background-color:#383434;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.column{
+    background-color:white;
+}
+caption{
+
+    display:none;
+}
+table#personal-achievements{
+    width: 76%;
+    text-align: center;
+    height: auto;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table#personal-achievements ul{
+    text-align: left;
+    margin: 5px;
+    list-style-position: inside;
+}
+
+table#personal-achievements{
+    border: 3px solid rgb(99,56,54);
+    border-radius: 6px;
+    background-color:whitesmoke;
+}
+table#personal-achievements td,table#personal-achievements th{
+    border: 3px solid #383434;
+    border-radius: 2px;
+}
+/*End of Fourth section*/

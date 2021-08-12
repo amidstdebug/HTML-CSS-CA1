@@ -1,0 +1,278 @@
+/*Start of Header*/
+    .header-main{
+        background:#383434;
+    }
+    .header-main h1{
+        text-align: center;
+        color:white;
+        font-size: 50px;
+        padding-top: 30px;
+        margin-right:100px;
+        margin-left: 100px;
+        background:#383434;
+        padding-bottom:20px;
+    }
+    .header-main p{
+        text-align: center;
+        color:white;
+        font-size: 30px;
+        margin-top: 10px;
+        margin-right:400px;
+        margin-left: 400px;
+        padding-bottom:40px;
+
+    }
+/*End of Header*/
+
+
+/*Start of First Section*/
+    .image-section-1{
+        background:#34344A;
+        width:100%;
+        padding-top:30px;
+        padding-bottom:30px;
+        display: flex;
+        justify-content: center;
+    }
+    .data-scientist img{
+        height:100%;
+        width:100%;
+    }
+    .data-scientist{
+        justify-items: right;
+        width:40%;
+    }
+    .paragraph {
+        color:white;
+        width:30%;
+        word-wrap: break-word;
+        text-align: justify;
+        background-image: url("./Pictures/cloud5.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:100%;
+        justify-items: left;
+        padding-left:50px;
+        padding-right:50px;
+    }
+    .paragraph h1{
+        padding-top:50px;
+        text-align: center;
+        font-size: 50px;
+        padding-bottom:20px;
+    }
+    .first-para-sec-1 {
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+        padding-bottom: 30px;
+    }
+    .paragraph h4{
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+    }
+/*End of First Section*/
+
+
+/*Start of Second Section*/
+    .image-section-2{
+        background:#383434;
+        width:100%;
+        padding-top:30px;
+        padding-bottom:30px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .data-analyst img{
+        height:100%;
+        width:100%;
+    }
+    .data-analyst{
+        justify-items: left;
+        width:40%;
+    }
+    .paragraph-section-2{
+        color:white;
+        width:30%;
+        word-wrap: break-word;
+        text-align: justify;
+        background-image: url("./Pictures/cloud5.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:100%;
+        justify-items: right;
+        padding-left:50px;
+        padding-right:50px;
+    }
+    .paragraph-section-2 h1{
+        padding-top:20px;
+        text-align: center;
+        font-size: 50px;
+        padding-bottom:20px;
+    }
+    .paragraph-section-2 h4{
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+    }
+    .first-para-sec-2 {
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+    }
+/*End of Second Section*/
+
+
+/*start of Third Section*/
+    .image-section-3{
+        background:#34344A;
+        width:100%;
+        padding-top:30px;
+        padding-bottom:30px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .data-architect img{
+        height:100%;
+        width:100%;
+    }
+    .data-architect{
+        justify-items: left;
+        width:40%;
+    }
+    .paragraph-section-3{
+        color:white;
+        width:30%;
+        word-wrap: break-word;
+        text-align: justify;
+        background-image: url("./Pictures/cloud5.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:100%;
+        justify-items: right;
+        padding-left:50px;
+        padding-right:50px;
+    }
+    .paragraph-section-3 h1{
+        padding-top:50px;
+        text-align: center;
+        font-size: 50px;
+        padding-bottom:40px;
+    }
+    .paragraph-section-3 h4{
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+    }
+    .first-para-sec-3 {
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+        padding-bottom: 40px;
+    }
+/*End of Third Section*/
+
+
+/*Start of Fourth Section*/
+    .image-section-4{
+        background:#34344A;
+        width:100%;
+        padding-top:30px;
+        padding-bottom:30px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .data-engineer img{
+        height:100%;
+        width:100%;
+    }
+    .data-engineer{
+        justify-items: left;
+        width:40%;
+    }
+    .paragraph-section-4{
+        color:white;
+        width:30%;
+        word-wrap: break-word;
+        text-align: justify;
+        background-image: url("./Pictures/cloud5.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:100%;
+        justify-items: right;
+        padding-left:50px;
+        padding-right:50px;
+    }
+    .paragraph-section-4 h1{
+        padding-top:50px;
+        text-align: center;
+        font-size: 50px;
+        padding-bottom:40px;
+    }
+    .paragraph-section-4 h4{
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+    }
+    .first-para-sec-4 {
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+        padding-bottom: 40px;
+    }
+/*End of Fourth Section*/
+
+
+/*Start of Fifth Section*/
+    .image-section-5{
+        background:#34344A;
+        width:100%;
+        padding-top:30px;
+        padding-bottom:60px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .data-steward img{
+        height:100%;
+        width:100%;
+    }
+    .data-steward{
+        justify-items: left;
+        width:40%;
+    }
+    .paragraph-section-5{
+        color:white;
+        width:30%;
+        word-wrap: break-word;
+        text-align: justify;
+        background-image: url("./Pictures/cloud5.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:100%;
+        justify-items: right;
+        padding-left:50px;
+        padding-right:50px;
+    }
+    .paragraph-section-5 h1{
+        padding-top:50px;
+        text-align: center;
+        font-size: 50px;
+        padding-bottom:40px;
+    }
+    .paragraph-section-5 h4{
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+    }
+    .first-para-sec-5 {
+        text-align: justify;
+        color: white;
+        line-height: 30px;
+        padding-bottom: 40px;
+    }
+/*End of Fifth Section*/
